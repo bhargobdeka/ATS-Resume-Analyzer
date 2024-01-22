@@ -91,4 +91,4 @@ I would like to extend my heartfelt thanks to [Krish Naik](https://www.youtube.c
 
 ## Collaboration
 
-Let me know if someone wants to build GenAI apps with me. Always open to cool projects and cool people! I will soon start a blog building GenAI apps that can be of value to all of us.
+Let me know if someone wants to build GenAI apps with me. Always open to cool projects and cool people!
